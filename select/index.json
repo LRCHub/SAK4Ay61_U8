@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "あいうえおんがく",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-02-10T10:42:09.381936Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あいうえおんがく",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/01_あいうえおんがく_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あいうえおんがく？",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/02_あいうえおんがく_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あいうえおんがく♬",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/03_あいうえおんがく♬_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あいうえおんがく - Aiueongaku",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/04_あいうえおんがく_-_Aiueongaku_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あいうえおんがく",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/05_あいうえおんがく_GReeeeN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あいうえおんがく",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_あいうえおんがく_GReeeeN.txt"
+    }
+  ]
+}
